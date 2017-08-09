@@ -3,13 +3,14 @@ layout: default
 ---
 
 
-[Link to another page](another-page)
+#Site Building Log V1.0
+1.完成github托管，增加了子页面
 
-This is [Pallet_Assigning Tool](https://github.com/Lordbread/Lordbread.github.io/raw/147e5b98648ad834e6e0014a21660cfd63dbb6f2/RSO%20Scanning.xlsm)
+2.子页面下载在/tools下面管理，在index下面引用路径
 
-This is [Packing Factor Calculator](https://github.com/Lordbread/Lordbread.github.io/raw/147e5b98648ad834e6e0014a21660cfd63dbb6f2/RSO%20Scanning.xlsm)
+##To-do：
+1.更新下载文件，工具说明
 
-This is [Up_to_date_SKUs_Info](https://github.com/Lordbread/Lordbread.github.io/raw/147e5b98648ad834e6e0014a21660cfd63dbb6f2/RSO%20Scanning.xlsm)
-
+2.首页项目进度日志
 
 Having trouble with Those Tools? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or contact Solution for support and we’ll help you sort it out.
