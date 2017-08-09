@@ -3,6 +3,8 @@ layout: default
 ---
 
 
+[Link to another page](another-page)
+
 This is [Pallet_Assigning Tool](https://github.com/Lordbread/Lordbread.github.io/raw/147e5b98648ad834e6e0014a21660cfd63dbb6f2/RSO%20Scanning.xlsm)
 
 This is [Packing Factor Calculator](https://github.com/Lordbread/Lordbread.github.io/raw/147e5b98648ad834e6e0014a21660cfd63dbb6f2/RSO%20Scanning.xlsm)
