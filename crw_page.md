@@ -5,7 +5,7 @@ layout: default
 ## Tool Kits Download Here
 Please click the name to dowmload files
 
-[Pallet Assigning]('Lordbread.github.io/tools/RSO Scanning V1.1.xlsm')
+[Pallet Assigning](/tools/RSO Scanning V1.1.xlsm)
 
 Reference([Documents]())
 
