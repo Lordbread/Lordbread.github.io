@@ -5,7 +5,7 @@ Hello World
 
 ### Jekyll Themes
 
-This is Pallet Tool [Pallet_Assign](https://raw.githubusercontent.com/Lordbread/Lordbread.github.io/master/_config.yml). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This is Pallet Tool [Pallet_Assign](https://github.com/Lordbread/Lordbread.github.io/raw/147e5b98648ad834e6e0014a21660cfd63dbb6f2/RSO%20Scanning.xlsm). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
