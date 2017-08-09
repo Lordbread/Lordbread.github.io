@@ -5,9 +5,9 @@ layout: default
 ## Tool Kits Download Here
 Please click the name to dowmload files
 
-[Reveiving Report Clawer]()\n
-Reference([Documents]()).\n
-[Truck Loading Check]().\n
-Reference([Documents]()).\n
+[Reveiving Report Clawer]()$
+Reference([Documents]())
+[Truck Loading Check]()
+Reference([Documents]())
 
 [back](./)
