@@ -3,6 +3,20 @@ layout: default
 ---
 
 
+# Site Building Log V1.1
+
+1.更新了工具版本以及对应下载链接
+
+2.对子页面重新进行了排版
+
+3.更新了Scanning Tool的文档说明
+
+## To-Do：
+
+1.增加日志栏目，用来更新项目进度
+
+
+
 # Site Building Log V1.0
 
 1.完成github托管，增加了CRW/CLC子页面
