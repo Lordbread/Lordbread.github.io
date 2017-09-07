@@ -23,7 +23,7 @@ Reference [Documents]()
 [Put-Away Slotting Logic](/tools/test.xlsm) 
 
 
-[Allocation Logic](/tools/Allocation.xlsm
+[Allocation Logic](/tools/Allocation.xlsm)
 
 
 [Up_to_date_SKU_info]()
