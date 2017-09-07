@@ -15,6 +15,12 @@ Reference [Documents](/tools/RSO收货工具使用说明.docx)
 
 Reference [Documents]()
 
+#CRW WMS Related Demo
+
+[Put-Away Slotting Logic](/tools/test.xlsm) 
+
+[Allocation Logic](/tools/Allocation.xlsm)
+
 [Up_to_date_SKU_info]()
 
 Reference [Documents]()
